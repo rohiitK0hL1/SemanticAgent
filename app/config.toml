@@ -1,0 +1,14 @@
+[oracle_atp]
+user = "admin"
+password = "Autonomous2025!$"
+host = "adb.us-ashburn-1.oraclecloud.com"
+port = 1522
+service_name = "ge1f0de064553c7_atpdb_high.adb.oraclecloud.com"
+ssl_verify = "cert-none"  # or "cert-require"
+ssl_protocol = "TLSv1.2"
+ssl_ca = ""  # Leave empty if not using cert-require
+wallet_pass="CloudATPDB1$"
+config_dir = "C:/Users/351593/Documents/Semanticagent/Semanticagent/Wallet_ATPDB"
+wallet_location = "C:/Users/351593/Documents/Semanticagent/Semanticagent/Wallet_ATPDB"
+[settings]
+image_path = "/Users/srikarbala/Documents/TestAutomation/NTTDATA.png" 

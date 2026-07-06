@@ -1,0 +1,29 @@
+# OS files
+.DS_Store
+Thumbs.db
+
+# Environment & secrets
+.env
+*.env
+app/.env
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.egg-info/
+.pytest_cache/
+
+# Virtual environment
+venv/
+.venv/
+env/
+
+# Chainlit runtime
+.chainlit/
+.files/
+
+# Logs & generated output
+*.log
+oracle_fetcher.log
+classified_results_inline.json

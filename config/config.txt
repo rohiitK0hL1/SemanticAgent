@@ -1,0 +1,6 @@
+[DEFAULT]
+user=ocid1.user.oc1..aaaaaaaatil4cktnnk32r5wv25uvhww43nryd66glgkcm3s7zgxex75y6weq
+fingerprint=bd:c2:78:2d:a3:6c:fc:de:89:96:4d:47:1d:2e:32:d8
+tenancy=ocid1.tenancy.oc1..aaaaaaaa3oosoab4cce5nsseh5awuzuoemnhiqjt76qpznviscwwlbrmnqna
+region=us-ashburn-1
+key_file=C:\Users\roxo\Desktop\exp_apinv\Semanticagent\config\Kaushikram.Ramamoorthy@nttdata.com-2026-01-20T14_24_24.377Z.pem
